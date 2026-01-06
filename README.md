@@ -1,4 +1,3 @@
-<img width="643" height="511" alt="image" src="https://github.com/user-attachments/assets/21f4e892-b996-483a-9659-11aa821ad6ea" />## Hi there 👋
 # Hi there! I'm Santiago Actis 👋
 
 <div align="center">

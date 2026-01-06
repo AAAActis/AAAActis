@@ -75,4 +75,3 @@ I specialize in building scalable **RESTful APIs**, implementing **Clean Archite
 ### 💼 Professional Background
 
 * **Systems Analyst Student** @ Universidad Nacional de Córdoba (2024 - Present)
-*

@@ -55,17 +55,17 @@ I specialize in building scalable **RESTful APIs**, implementing **Clean Archite
 
 ### 🚀 Featured Projects
 
-#### 📝 [NotesApp - Full Stack Architecture](LINK_AL_REPO)
+#### 📝 [NotesApp - Full Stack Architecture](https://github.com/AAAActis/NotesApp-FullStack)
 *A robust note management system built to master modern architecture patterns.*
 * **Tech:** ASP.NET Core 8 Web API, React + TypeScript + Vite, EF Core, SQLite.
 * **Key Features:** Layered Architecture, SOLID principles, async state management.
 
-#### 🧾 [Facturador ARCA - WPF Migration](LINK_AL_REPO)
+#### 🧾 [Facturador ARCA - WPF Migration](https://github.com/AAAActis/Facturador-ARCA-WPF)
 *Migrating a legacy console application to a modern interactive desktop interface.*
 * **Tech:** C#, WPF (Windows Presentation Foundation), Entity Framework.
 * **Focus:** UI/UX design, Navigation Services, Dependency Injection in Desktop Apps.
 
-#### 🎮 [Unreal Engine Prototype](LINK_AL_REPO)
+#### 🎮 [Undead Rampage Zombie FPS](https://github.com/AAAActis/UndeadRampage)
 *Applying C++ logic and Blueprint scripting to create immersive gameplay mechanics.*
 * **Tech:** Unreal Engine 5, C++, Visual Scripting.
 * **Focus:** Physics, Collision handling, and Performance optimization.

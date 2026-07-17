@@ -55,6 +55,12 @@ I specialize in building scalable **RESTful APIs**, implementing **Clean Archite
 
 ### 🚀 Featured Projects
 
+#### 📚 [Librería API - Core Backend System](https://github.com/AAAActis/LibraryProject)
+*API RESTful segura y escalable para la gestión integral de bibliotecas, préstamos y multas.*
+* **Tech:** ASP.NET Core 10 Web API, PostgreSQL, Entity Framework Core, xUnit, Moq, JWT, Tailscale, Docker.
+* **Focus:** Arquitectura limpia, testing automatizado (Patrón AAA), seguridad de endpoints (Autenticación/Autorización) y optimización de consultas en base de datos.
+
+
 #### 📝 [NotesApp - Full Stack Architecture](https://github.com/AAAActis/NotesApp-FullStack)
 *A robust note management system built to master modern architecture patterns.*
 * **Tech:** ASP.NET Core 8 Web API, React + TypeScript + Vite, EF Core, SQLite.
